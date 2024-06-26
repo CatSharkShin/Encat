@@ -2065,7 +2065,7 @@ body:not(.is-mobile) .prompt > .prompt-instructions {
 
 .modal {
   border: none;
-  background-color: rgba(var(--grey-800-rgb), var(--en-opacity));
+  background-color: var(--grey-800-rgb);
   --en-opacity: 1;
 }
 .modal .vertical-tab-header {
