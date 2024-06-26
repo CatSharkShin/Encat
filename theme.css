@@ -286,6 +286,13 @@ button:hover{
   --grey-700-rgb: #1c1c1c !important;
   --grey-600-rgb: #808080 !important;
   --color-base-10: #2d2d2d !important;
+  
+  --h1-color: #b06cff;/*#975af2;*/
+  --h2-color: #ff4dad;/*#d965e4;*/
+  --h3-color: #00c7ff;
+  --h4-color: #e96363;
+  --h5-color: #ee7e51;
+  --h6-color: #ecc68b;
   --code-radius: 0px;
   --border-color: var(--background-primary);
 }
@@ -1804,12 +1811,12 @@ body.encore-theme-dark-materialocean.theme-dark.encore-colors-colorful {
   --highlight-hue: 355;
   --italic-color: #d7dfec;
   --bold-color: #d9dee9;
-  --h1-color: var(--color-red);
+  /* --h1-color: var(--color-red);
   --h2-color: var(--color-green);
   --h3-color: var(--color-blue);
   --h4-color: var(--color-cyan);
   --h5-color: var(--color-yellow);
-  --h6-color: var(--color-orange);
+  --h6-color: var(--color-orange); */
 }
 
 body.encore-theme-light-sterling.theme-light {
@@ -1840,12 +1847,12 @@ body.encore-theme-light-sterling.encore-colors-colorful {
   --highlight-hue: 30;
   --italic-color: #82c0e9;
   --bold-color: #d86679;
-  --h1-color: #ffc444;
+  /* --h1-color: #ffc444;
   --h2-color: #faa250;
   --h3-color: #f88765;
   --h4-color: #f88773;
   --h5-color: #f88773;
-  --h6-color: #f88773;
+  --h6-color: #f88773; */
 }
 
 body {
