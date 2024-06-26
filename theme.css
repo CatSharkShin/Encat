@@ -2075,9 +2075,6 @@ body:not(.is-mobile) .prompt > .prompt-instructions {
 .modal .vertical-tab-header .vertical-tab-header-group-title {
   font-size: 1.33rem;
 }
-.modal .vertical-tab-content {
-  background-color: transparent;
-}
 
 .setting-item {
   border-top: none;
