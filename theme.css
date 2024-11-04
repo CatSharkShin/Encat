@@ -1,6 +1,6 @@
 /* @settings
 
-name: Encore
+name: Encat
 id: encore-settings
 settings:
   - 
@@ -490,9 +490,9 @@ body.encore-fancy-headers .workspace-tab-container .workspace-leaf-content {
   position: relative;
 }
 body.encore-fancy-headers .workspace-tab-container .workspace-leaf-content > .view-header {
-  position: absolute;
+  /* position: absolute;
   left: 0;
-  right: 0;
+  right: 0; */
   /* --en-opacity: var(--en-acrylic-opacity); */
   background-color: var(--background-secondary);
   /* backdrop-filter: var(--en-acrylic); */
